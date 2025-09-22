@@ -1,6 +1,7 @@
 # Customer Spending and Transaction Analysis
 
-This project analyzes customer demographics and transaction data to uncover spending patterns, popular product categories, and monthly trends. Insights are visualized using Python, SQL, and data visualization libraries.
+**Executive Summary:**  
+This project analyzes customer demographics and transaction data using **SQL + Python** to uncover spending behaviors, popular product categories, and seasonal trends. The results highlight which groups drive the most revenue, when spending peaks, and how businesses can optimize marketing and product strategies.  
 
 Datasets were obtained through Kaggle.
 
@@ -108,4 +109,5 @@ Using Python and data analytics libraries, the analysis includes data cleaning, 
 
 
 [Check the Notebook here!](customer_spending_transaction_analysis.ipynb)
+
 
