@@ -49,7 +49,7 @@ Using Python and data analytics libraries, the analysis includes data cleaning, 
 - Europe shows the highest spending, followed by Asia and North America.  
 - Suggests stronger purchasing power or higher demand in these markets.  
 
-![Average Spending by Region](images/spending_per_region.png)  
+![Average Spending by Region](Images/spending_per_region.png)  
 
 ---
 
@@ -57,7 +57,7 @@ Using Python and data analytics libraries, the analysis includes data cleaning, 
 - Females spend slightly more than males on average (~44 units difference).  
 - Indicates potential for gender-targeted marketing campaigns.  
 
-![Average Spending by Gender](images/spending_per_gender.png)  
+![Average Spending by Gender](Images/spending_per_gender.png)  
 
 ---
 
@@ -65,7 +65,7 @@ Using Python and data analytics libraries, the analysis includes data cleaning, 
 - Spending peaks in the **21–40 age groups**, aligning with prime working years.  
 - Higher income does not always equal higher spending, especially in older brackets.  
 
-![Income and Spending by Age Bracket](images/income_spending_age.png)  
+![Income and Spending by Age Bracket](Images/income_spending_age.png)  
 
 ---
 
@@ -75,7 +75,7 @@ Using Python and data analytics libraries, the analysis includes data cleaning, 
 - A few categories dominate transaction volume, making them critical for revenue.  
 - Smaller categories may represent opportunities for growth or diversification.  
 
-![Popular Product Categories](images/popular_product_category.png)  
+![Popular Product Categories](Images/popular_product_category.png)  
 
 ---
 
@@ -84,7 +84,7 @@ Using Python and data analytics libraries, the analysis includes data cleaning, 
   - Some drive frequent low-value purchases (e.g., groceries).  
   - Others drive fewer but high-value transactions (e.g., electronics).  
 
-![Average Transactions per Category](images/spending_transactions_product_category.png)  
+![Average Transactions per Category](Images/spending_transactions_product_category.png)  
 
 ---
 
@@ -92,7 +92,7 @@ Using Python and data analytics libraries, the analysis includes data cleaning, 
 - Seasonal spikes suggest holidays, promotions, or demand cycles.  
 - Consistent categories show stable baseline demand.  
 
-![Monthly Trend of Categories](images/monthly_trend.png)  
+![Monthly Trend of Categories](Images/monthly_trend.png)  
 
 ---
 
@@ -100,10 +100,11 @@ Using Python and data analytics libraries, the analysis includes data cleaning, 
 - Most purchases are **low to mid-range**.  
 - A long-tail distribution exists with fewer **high-value transactions**, typical of retail data.  
 
-![Transaction Amount Distribution](images/distribution_log.png) 
+![Transaction Amount Distribution](Images/distribution_log.png) 
 
 ---
 
 ### Others
+
 
 [Check the Notebook here!](customer_spending_transaction_analysis)
