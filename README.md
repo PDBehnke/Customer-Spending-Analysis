@@ -107,4 +107,5 @@ Using Python and data analytics libraries, the analysis includes data cleaning, 
 ### Others
 
 
-[Check the Notebook here!](customer_spending_transaction_analysis)
+[Check the Notebook here!](customer_spending_transaction_analysis.ipynb)
+
